@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gett2&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../gett" />
+      <root url="file://$PROJECT_DIR$/../prj1" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../gett" />
+      <root url="file://$PROJECT_DIR$/../prj1" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
